@@ -1,0 +1,18 @@
+
+{
+  "name": "ZenNotes - Smart Notepad",
+  "short_name": "ZenNotes",
+  "description": "A high-performance, minimalist note-taking application with AI intelligence.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fcfcfc",
+  "theme_color": "#fcfcfc",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3706/3706380.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
